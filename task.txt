@@ -1,0 +1,5 @@
+registration default user - voter
+html number field- phone number
+docker containerized application
+face-recognition - tensorflow.js
+dashboard personal info display
